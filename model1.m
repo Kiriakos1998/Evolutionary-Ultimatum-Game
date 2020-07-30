@@ -1,3 +1,6 @@
+% population is the size of the population that is to be modeled
+% errorValues is the error with which a child inherits a strategy from its parent
+% generations is the number of generations that are to be modeled
 function [ps,qs]=model1(population,errorValues,generations)
 % each row represents a player with a strategy defined by two numbers
 % first column represents the offer (p)that a player will make to the other
