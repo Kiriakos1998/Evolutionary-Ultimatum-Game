@@ -7,3 +7,4 @@
 # Fifth model is the same with fourth but is using gpuArrays.
 # Sixth model is visualising the invasion of a small group of stategies let it be S1 to a sea of strategies S2 as it concerns the Fourth model.
 # Seventh model is visualising the invansion of a small group os strategies let it be S1 to a sea of strategies S2 as it concerns the Second model.
+# This models occured from the study of this paper: The spatial ultimatum game Karen M. Page1  Martin A. Nowak1 and Karl Sigmund
